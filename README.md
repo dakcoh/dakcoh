@@ -1,2 +1,2 @@
-### <A href="mailto:dakcoh@gmail.com">✉️ dakcoh@gmail.com</a>
+### [✉️ dakcoh@gmail.com](mailto:dakcoh@gmail.com)
 ### [📒 blog](https://velog.io/@dakcoh)
