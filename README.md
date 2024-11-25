@@ -1,4 +1,4 @@
-# Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Backend
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -25,9 +25,8 @@
 
 ## 🌟 Personal Project
 
-- #### [온라인 쇼핑몰 서비스의 주문/결제 프로세스](https://github.com/dakcoh/shopping-service-order) - **진행중**
-
----
+- #### [쇼핑몰 주문/결제 서비스](https://github.com/dakcoh/shopping-service-order) - [진행중] 주문/결제 관리 서비스
+- #### [물류 재고 관리 서비스]() - [개발 예정] 실시간 물류 재고 관리 서비스
 
 ## 📬 Contact Me
 
