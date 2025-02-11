@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -12,7 +12,8 @@
 
 ## 🌟 Personal Project
 
-- #### [쇼핑몰 주문/결제 서비스](https://github.com/dakcoh/shopping-service-order) - [진행중] 주문/결제 관리 서비스
+- #### [주문/결제 서비스](https://github.com/dakcoh/shopping-service-order) - MSA Study (주문/결제)
+- #### [쿠폰 매니저](https://github.com/dakcoh/coupon-manager) - 동시성 제어 Study (생성/발급/사용)
 - #### [물류 재고 관리 서비스]() - [개발 예정] 실시간 물류 재고 관리 서비스
 
 ## 📬 Contact Me
